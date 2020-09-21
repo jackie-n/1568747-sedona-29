@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Надежда Соловьева](https://up.htmlacademy.ru/htmlcss/29/user/1568747).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Котов](https://htmlacademy.ru/profile/eugene_kotov).
 
 ---
 
